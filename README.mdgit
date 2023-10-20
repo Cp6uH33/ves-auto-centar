@@ -1,0 +1,1 @@
+"# ves-auto-centar"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Cp6uH33/ves-auto-centar.gitgit push -u origin main
